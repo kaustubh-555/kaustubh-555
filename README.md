@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 View my Sites:-
-<a href="https://kaustubh-555.github.io/Portfolio/">
-<a href="https://kaustubh-555.github.io/Portfolio/">
-<a href="https://kaustubh-555.github.io/Portfolio/">
+<a href="https://kaustubh-555.github.io/Portfolio/">Portfolio</a >
+<a href="https://kaustubh-555.github.io/hotel-website/">hotel</a >
+<a href="https://kaustubh-555.github.io/News-Site/">news</a >
   
