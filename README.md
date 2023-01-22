@@ -14,8 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<html>
+ <head>
+   <link rel="stylesheet" href="./style.css">  
+ </head>
+  <body>
+  <a href="https://kaustubh-555.github.io/Portfolio/">Portfolio</a >
+  <a href="https://kaustubh-555.github.io/hotel-website/">hotel</a >
+  <a href="https://kaustubh-555.github.io/News-Site/">news</a >
+   <body>
+ </html>
 View my Sites:-
-<a href="https://kaustubh-555.github.io/Portfolio/">Portfolio</a >
-<a href="https://kaustubh-555.github.io/hotel-website/">hotel</a >
-<a href="https://kaustubh-555.github.io/News-Site/">news</a >
-  
+
