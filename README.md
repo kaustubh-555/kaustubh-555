@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Web Development
 <!--
 **kaustubh-555/kaustubh-555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,16 +17,6 @@ Here are some ideas to get you started:
 <html>
  <head>
    <link rel="stylesheet" href="style.css">  
-  <style>
-   a{
-  display:block;
-  padding:10px;
-  border:1px darkgrey solid;  
-}
-a:hover{
-  border:1px white solid;  
-}
-  </style>
  </head>
   <body>
 View my Sites:-
