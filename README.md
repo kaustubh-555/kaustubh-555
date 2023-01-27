@@ -14,15 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<html>
- <head>
-   <link rel="stylesheet" href="style.css">  
- </head>
-  <body>
 View my Sites:-
+<style>
+ #links {
+    display: flex;
+    flex-direction:column;
+    width:500px;
+    padding :20px
+ }
+ </style>
+<div id="links ">
+
   <a href="https://kaustubh-555.github.io/Portfolio/">Portfolio</a >
   <a href="https://kaustubh-555.github.io/hotel-website/">hotel</a >
   <a href="https://kaustubh-555.github.io/News-Site/">news</a >
-   <body>
- </html>
 
+</div>
+                                                     
+                                                     
