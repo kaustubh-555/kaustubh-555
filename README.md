@@ -15,15 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 View my Sites:-
-<style>
- #links {
-    display: flex;
-    flex-direction:column;
-    width:500px;
-    padding :20px
- }
- </style>
-<div id="links ">
+<div id="links" style="display: flex; flex-direction:column; width:500px; padding :20px">
 
   <a href="https://kaustubh-555.github.io/Portfolio/">Portfolio</a >
   <a href="https://kaustubh-555.github.io/hotel-website/">hotel</a >
